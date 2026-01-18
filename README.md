@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1929-concatenation-of-array](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1929-concatenation-of-array) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2381-shifting-letters-ii](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/2381-shifting-letters-ii) |
+| [2383-minimum-hours-of-training-to-win-a-competition](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/2383-minimum-hours-of-training-to-win-a-competition) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2574-left-and-right-sum-differences](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/2574-left-and-right-sum-differences) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Greedy
 |  |
 | ------- |
+| [2383-minimum-hours-of-training-to-win-a-competition](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/2383-minimum-hours-of-training-to-win-a-competition) |
 | [3689-maximum-total-subarray-value-i](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/3689-maximum-total-subarray-value-i) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 ## Sliding Window
