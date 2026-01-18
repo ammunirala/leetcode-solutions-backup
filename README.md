@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1672-richest-customer-wealth](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1672-richest-customer-wealth) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1929-concatenation-of-array](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1929-concatenation-of-array) |
+| [2373-largest-local-values-in-a-matrix](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2574-left-and-right-sum-differences](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/2574-left-and-right-sum-differences) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1672-richest-customer-wealth) |
+| [2373-largest-local-values-in-a-matrix](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/2373-largest-local-values-in-a-matrix) |
 ## String
 |  |
 | ------- |
