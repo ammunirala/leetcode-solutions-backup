@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/ammunirala/leetcode-solutions/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/0013-roman-to-integer) |
 | [1512-number-of-good-pairs](https://github.com/ammunirala/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0009-palindrome-number](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/0013-roman-to-integer) |
 | [1512-number-of-good-pairs](https://github.com/ammunirala/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ammunirala/leetcode-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/0014-longest-common-prefix) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2381-shifting-letters-ii](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/2381-shifting-letters-ii) |
