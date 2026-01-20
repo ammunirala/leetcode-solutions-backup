@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1684-count-the-number-of-consistent-strings](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/2799-count-complete-subarrays-in-an-array) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Math
 |  |
 | ------- |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0014-longest-common-prefix](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/0014-longest-common-prefix) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2381-shifting-letters-ii](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/2381-shifting-letters-ii) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Bit Manipulation
 |  |
 | ------- |
