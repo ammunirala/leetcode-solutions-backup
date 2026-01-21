@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0033-search-in-rotated-sorted-array](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/0033-search-in-rotated-sorted-array) |
 | [0075-sort-colors](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/0075-sort-colors) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1470-shuffle-the-array) |
 | [1512-number-of-good-pairs](https://github.com/ammunirala/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/0033-search-in-rotated-sorted-array) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2826-sorting-three-groups](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/2826-sorting-three-groups) |
 ## Greedy
