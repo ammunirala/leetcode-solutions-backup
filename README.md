@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1684-count-the-number-of-consistent-strings](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1720-decode-xored-array](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1720-decode-xored-array) |
 | [1929-concatenation-of-array](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1929-concatenation-of-array) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2381-shifting-letters-ii](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/2381-shifting-letters-ii) |
 | [2383-minimum-hours-of-training-to-win-a-competition](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/2383-minimum-hours-of-training-to-win-a-competition) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0018-4sum](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/0075-sort-colors) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3467-transform-array-by-parity](https://github.com/ammunirala/leetcode-solutions/tree/master/3467-transform-array-by-parity) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2383-minimum-hours-of-training-to-win-a-competition](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/2383-minimum-hours-of-training-to-win-a-competition) |
 | [3689-maximum-total-subarray-value-i](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/3689-maximum-total-subarray-value-i) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
@@ -159,4 +162,5 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 <!---LeetCode Topics End-->
