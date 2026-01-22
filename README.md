@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1512-number-of-good-pairs](https://github.com/ammunirala/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1672-richest-customer-wealth) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1720-decode-xored-array](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1720-decode-xored-array) |
 | [1929-concatenation-of-array](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1929-concatenation-of-array) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2381-shifting-letters-ii](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/2381-shifting-letters-ii) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1684-count-the-number-of-consistent-strings](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1720-decode-xored-array](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1720-decode-xored-array) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/2433-find-the-original-array-of-prefix-xor) |
 ## Two Pointers
 |  |
