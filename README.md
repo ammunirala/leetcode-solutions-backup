@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [1108-defanging-an-ip-address](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1108-defanging-an-ip-address) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1143-longest-common-subsequence](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1143-longest-common-subsequence) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2381-shifting-letters-ii](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/2381-shifting-letters-ii) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [1143-longest-common-subsequence](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1143-longest-common-subsequence) |
 | [2826-sorting-three-groups](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/2826-sorting-three-groups) |
 ## Backtracking
 |  |
