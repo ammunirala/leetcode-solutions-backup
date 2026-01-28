@@ -191,8 +191,13 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0024-swap-nodes-in-pairs](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/0024-swap-nodes-in-pairs) |
 ## Stack
 |  |
 | ------- |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+## Recursion
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
