@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0031-next-permutation](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/0033-search-in-rotated-sorted-array) |
 | [0040-combination-sum-ii](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/0040-combination-sum-ii) |
+| [0045-jump-game-ii](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/0045-jump-game-ii) |
 | [0075-sort-colors](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/0075-sort-colors) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/0045-jump-game-ii) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/0045-jump-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1143-longest-common-subsequence) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2826-sorting-three-groups](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/2826-sorting-three-groups) |
