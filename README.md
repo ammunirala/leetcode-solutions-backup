@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2799-count-complete-subarrays-in-an-array](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2826-sorting-three-groups](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/2826-sorting-three-groups) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3285-find-indices-of-stable-mountains](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/3285-find-indices-of-stable-mountains) |
 | [3467-transform-array-by-parity](https://github.com/ammunirala/leetcode-solutions/tree/master/3467-transform-array-by-parity) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3467-transform-array-by-parity](https://github.com/ammunirala/leetcode-solutions/tree/master/3467-transform-array-by-parity) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 ## Simulation
@@ -220,4 +222,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/0024-swap-nodes-in-pairs) |
+## Enumeration
+|  |
+| ------- |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 <!---LeetCode Topics End-->
