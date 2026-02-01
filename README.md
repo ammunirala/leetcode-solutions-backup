@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0033-search-in-rotated-sorted-array](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/0033-search-in-rotated-sorted-array) |
 | [0040-combination-sum-ii](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/0046-permutations) |
 | [0075-sort-colors](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/0075-sort-colors) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0040-combination-sum-ii](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/0046-permutations) |
 | [0093-restore-ip-addresses](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/0093-restore-ip-addresses) |
 ## Counting Sort
 |  |
