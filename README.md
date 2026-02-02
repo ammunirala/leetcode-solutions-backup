@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2826-sorting-three-groups](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/2826-sorting-three-groups) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3285-find-indices-of-stable-mountains](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/3285-find-indices-of-stable-mountains) |
 | [3467-transform-array-by-parity](https://github.com/ammunirala/leetcode-solutions/tree/master/3467-transform-array-by-parity) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/2799-count-complete-subarrays-in-an-array) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Math
 |  |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1156-swap-for-longest-repeated-character-substring](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1156-swap-for-longest-repeated-character-substring) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/2799-count-complete-subarrays-in-an-array) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -208,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Linked List
 |  |
