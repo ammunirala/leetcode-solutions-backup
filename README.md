@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3285-find-indices-of-stable-mountains](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/3285-find-indices-of-stable-mountains) |
+| [3379-transformed-array](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/3379-transformed-array) |
 | [3467-transform-array-by-parity](https://github.com/ammunirala/leetcode-solutions/tree/master/3467-transform-array-by-parity) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ammunirala/leetcode-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3640-trionic-array-ii](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/3640-trionic-array-ii) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0412-fizz-buzz](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/0412-fizz-buzz) |
 | [1929-concatenation-of-array](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1929-concatenation-of-array) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3379-transformed-array](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/3379-transformed-array) |
 | [3701-compute-alternating-sum](https://github.com/ammunirala/leetcode-solutions/tree/master/3701-compute-alternating-sum) |
 ## Matrix
 |  |
