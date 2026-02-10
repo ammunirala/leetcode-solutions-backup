@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0058-length-of-last-word](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/0058-length-of-last-word) |
 | [0093-restore-ip-addresses](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/0093-restore-ip-addresses) |
 | [0412-fizz-buzz](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/0412-fizz-buzz) |
 | [1108-defanging-an-ip-address](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1108-defanging-an-ip-address) |
