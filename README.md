@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2799-count-complete-subarrays-in-an-array](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/3713-longest-balanced-substring-i) |
+| [3714-longest-balanced-substring-ii](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/3721-longest-balanced-subarray-ii) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2381-shifting-letters-ii](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/2381-shifting-letters-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/3713-longest-balanced-substring-i) |
+| [3714-longest-balanced-substring-ii](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/3714-longest-balanced-substring-ii) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Bit Manipulation
 |  |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1480-running-sum-of-1d-array](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1480-running-sum-of-1d-array) |
 | [2381-shifting-letters-ii](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/2381-shifting-letters-ii) |
 | [2574-left-and-right-sum-differences](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/2574-left-and-right-sum-differences) |
+| [3714-longest-balanced-substring-ii](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/3721-longest-balanced-subarray-ii) |
 ## Trie
