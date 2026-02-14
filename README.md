@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1672-richest-customer-wealth](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1672-richest-customer-wealth) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1720-decode-xored-array](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1720-decode-xored-array) |
+| [1828-queries-on-number-of-points-inside-a-circle](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [1929-concatenation-of-array](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1929-concatenation-of-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0013-roman-to-integer](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/0013-roman-to-integer) |
 | [0412-fizz-buzz](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/0412-fizz-buzz) |
 | [1512-number-of-good-pairs](https://github.com/ammunirala/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
+| [1828-queries-on-number-of-points-inside-a-circle](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
@@ -314,4 +316,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Geometry
+|  |
+| ------- |
+| [1828-queries-on-number-of-points-inside-a-circle](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 <!---LeetCode Topics End-->
