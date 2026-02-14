@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0022-generate-parentheses](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/0045-jump-game-ii) |
+| [0799-champagne-tower](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/0799-champagne-tower) |
 | [1143-longest-common-subsequence](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1143-longest-common-subsequence) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1653-minimum-deletions-to-make-string-balanced) |
