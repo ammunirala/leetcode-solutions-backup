@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2826-sorting-three-groups](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/2826-sorting-three-groups) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3285-find-indices-of-stable-mountains](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/3285-find-indices-of-stable-mountains) |
 | [3379-transformed-array](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/3379-transformed-array) |
