@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/0067-add-binary) |
+| [0190-reverse-bits](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/0190-reverse-bits) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1720-decode-xored-array](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1720-decode-xored-array) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/2433-find-the-original-array-of-prefix-xor) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/0023-merge-k-sorted-lists) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0190-reverse-bits](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/0190-reverse-bits) |
 | [1382-balance-a-binary-search-tree](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/3721-longest-balanced-subarray-ii) |
