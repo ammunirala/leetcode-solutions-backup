@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0093-restore-ip-addresses](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/0093-restore-ip-addresses) |
 | [0125-valid-palindrome](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/0125-valid-palindrome) |
 | [0412-fizz-buzz](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/0412-fizz-buzz) |
+| [0696-count-binary-substrings](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/0696-count-binary-substrings) |
 | [1108-defanging-an-ip-address](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1108-defanging-an-ip-address) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1143-longest-common-subsequence](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1143-longest-common-subsequence) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0031-next-permutation](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/0125-valid-palindrome) |
+| [0696-count-binary-substrings](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/0696-count-binary-substrings) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Prefix Sum
 |  |
