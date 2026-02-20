@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0016-3sum-closest](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/0075-sort-colors) |
+| [0761-special-binary-string](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/0761-special-binary-string) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0125-valid-palindrome](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/0125-valid-palindrome) |
 | [0412-fizz-buzz](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/0412-fizz-buzz) |
 | [0696-count-binary-substrings](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/0696-count-binary-substrings) |
+| [0761-special-binary-string](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/0761-special-binary-string) |
 | [1108-defanging-an-ip-address](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1108-defanging-an-ip-address) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1143-longest-common-subsequence](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1143-longest-common-subsequence) |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0023-merge-k-sorted-lists](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/0023-merge-k-sorted-lists) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0190-reverse-bits](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/0190-reverse-bits) |
+| [0761-special-binary-string](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/0761-special-binary-string) |
 | [1382-balance-a-binary-search-tree](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/3721-longest-balanced-subarray-ii) |
