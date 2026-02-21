@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0013-roman-to-integer](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/0412-fizz-buzz) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1512-number-of-good-pairs](https://github.com/ammunirala/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/2125-number-of-laser-beams-in-a-bank) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0190-reverse-bits](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/0190-reverse-bits) |
 | [0401-binary-watch](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/0693-binary-number-with-alternating-bits) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1720-decode-xored-array](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1720-decode-xored-array) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/2433-find-the-original-array-of-prefix-xor) |
