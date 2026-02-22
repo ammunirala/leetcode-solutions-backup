@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0401-binary-watch](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0868-binary-gap](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/0868-binary-gap) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1720-decode-xored-array](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1720-decode-xored-array) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/2433-find-the-original-array-of-prefix-xor) |
