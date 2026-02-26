@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0067-add-binary](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/0412-fizz-buzz) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1929-concatenation-of-array](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1929-concatenation-of-array) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3379-transformed-array](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/3379-transformed-array) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1143-longest-common-subsequence](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1143-longest-common-subsequence) |
 | [1156-swap-for-longest-repeated-character-substring](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1156-swap-for-longest-repeated-character-substring) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/0868-binary-gap) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1720-decode-xored-array](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1720-decode-xored-array) |
