@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0067-add-binary](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/0412-fizz-buzz) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1929-concatenation-of-array](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1929-concatenation-of-array) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1156-swap-for-longest-repeated-character-substring](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1156-swap-for-longest-repeated-character-substring) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/0024-swap-nodes-in-pairs) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Enumeration
 |  |
 | ------- |
