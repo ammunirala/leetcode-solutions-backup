@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1480-running-sum-of-1d-array](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1480-running-sum-of-1d-array) |
 | [2381-shifting-letters-ii](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/2381-shifting-letters-ii) |
 | [2574-left-and-right-sum-differences](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/2574-left-and-right-sum-differences) |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/3721-longest-balanced-subarray-ii) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2826-sorting-three-groups](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/2826-sorting-three-groups) |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3640-trionic-array-ii](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/3640-trionic-array-ii) |
 ## Backtracking
 |  |
