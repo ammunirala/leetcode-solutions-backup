@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1720-decode-xored-array](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1720-decode-xored-array) |
 | [1816-truncate-sentence](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1816-truncate-sentence) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1929-concatenation-of-array](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1929-concatenation-of-array) |
 | [1980-find-unique-binary-string](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1980-find-unique-binary-string) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1622-fancy-sequence](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -162,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1672-richest-customer-wealth](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1672-richest-customer-wealth) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/2373-largest-local-values-in-a-matrix) |
 ## String
@@ -240,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1480-running-sum-of-1d-array) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2381-shifting-letters-ii](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/2381-shifting-letters-ii) |
 | [2574-left-and-right-sum-differences](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/2574-left-and-right-sum-differences) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
@@ -319,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/0023-merge-k-sorted-lists) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
