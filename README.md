@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1672-richest-customer-wealth](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1672-richest-customer-wealth) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1720-decode-xored-array](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1720-decode-xored-array) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1816-truncate-sentence](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1816-truncate-sentence) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1672-richest-customer-wealth](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1672-richest-customer-wealth) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/2373-largest-local-values-in-a-matrix) |
@@ -275,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2383-minimum-hours-of-training-to-win-a-competition](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/2383-minimum-hours-of-training-to-win-a-competition) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
