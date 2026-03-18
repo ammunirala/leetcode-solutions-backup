@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3285-find-indices-of-stable-mountains](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/3285-find-indices-of-stable-mountains) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/2373-largest-local-values-in-a-matrix) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 ## String
 |  |
 | ------- |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2381-shifting-letters-ii](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/2381-shifting-letters-ii) |
 | [2574-left-and-right-sum-differences](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/2574-left-and-right-sum-differences) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3714-longest-balanced-substring-ii](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/3714-longest-balanced-substring-ii) |
