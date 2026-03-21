@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3634-minimum-removals-to-balance-array](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/3634-minimum-removals-to-balance-array) |
 | [3640-trionic-array-ii](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/3640-trionic-array-ii) |
+| [3643-flip-square-submatrix-vertically](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/3643-flip-square-submatrix-vertically) |
 | [3689-maximum-total-subarray-value-i](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/3689-maximum-total-subarray-value-i) |
 | [3701-compute-alternating-sum](https://github.com/ammunirala/leetcode-solutions/tree/master/3701-compute-alternating-sum) |
 | [3719-longest-balanced-subarray-i](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/3719-longest-balanced-subarray-i) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3643-flip-square-submatrix-vertically](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/3643-flip-square-submatrix-vertically) |
 ## String
 |  |
 | ------- |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0125-valid-palindrome](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/0125-valid-palindrome) |
 | [0696-count-binary-substrings](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/0696-count-binary-substrings) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3643-flip-square-submatrix-vertically](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/3643-flip-square-submatrix-vertically) |
 ## Prefix Sum
 |  |
 | ------- |
