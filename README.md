@@ -442,4 +442,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1622-fancy-sequence](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1622-fancy-sequence) |
+## Database
+|  |
+| ------- |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 <!---LeetCode Topics End-->
