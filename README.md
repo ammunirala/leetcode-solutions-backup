@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1512-number-of-good-pairs](https://github.com/ammunirala/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1672-richest-customer-wealth](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1672-richest-customer-wealth) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0807-max-increase-to-keep-city-skyline](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1672-richest-customer-wealth](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1672-richest-customer-wealth) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0799-champagne-tower](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/0799-champagne-tower) |
 | [1143-longest-common-subsequence](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1143-longest-common-subsequence) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2826-sorting-three-groups](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/2826-sorting-three-groups) |
