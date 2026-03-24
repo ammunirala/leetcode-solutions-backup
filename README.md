@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2799-count-complete-subarrays-in-an-array](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2826-sorting-three-groups](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/2826-sorting-three-groups) |
+| [2906-construct-product-matrix](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/2906-construct-product-matrix) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/2373-largest-local-values-in-a-matrix) |
+| [2906-construct-product-matrix](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2381-shifting-letters-ii](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/2381-shifting-letters-ii) |
 | [2574-left-and-right-sum-differences](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/2574-left-and-right-sum-differences) |
+| [2906-construct-product-matrix](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
