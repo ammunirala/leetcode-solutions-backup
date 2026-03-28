@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2383-minimum-hours-of-training-to-win-a-competition](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/2383-minimum-hours-of-training-to-win-a-competition) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2573-find-the-string-with-lcp](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/2573-find-the-string-with-lcp) |
 | [2574-left-and-right-sum-differences](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/2574-left-and-right-sum-differences) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/2798-number-of-employees-who-met-the-target) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/2373-largest-local-values-in-a-matrix) |
+| [2573-find-the-string-with-lcp](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/2573-find-the-string-with-lcp) |
 | [2906-construct-product-matrix](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2381-shifting-letters-ii](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/2381-shifting-letters-ii) |
+| [2573-find-the-string-with-lcp](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/2573-find-the-string-with-lcp) |
 | [3713-longest-balanced-substring-i](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/3714-longest-balanced-substring-ii) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -311,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1727-largest-submatrix-with-rearrangements](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2383-minimum-hours-of-training-to-win-a-competition](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/2383-minimum-hours-of-training-to-win-a-competition) |
+| [2573-find-the-string-with-lcp](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/2573-find-the-string-with-lcp) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3689-maximum-total-subarray-value-i](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/3689-maximum-total-subarray-value-i) |
@@ -335,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [2573-find-the-string-with-lcp](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/2573-find-the-string-with-lcp) |
 | [2826-sorting-three-groups](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/2826-sorting-three-groups) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
@@ -450,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Union-Find
 |  |
 | ------- |
+| [2573-find-the-string-with-lcp](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/2573-find-the-string-with-lcp) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Graph Theory
 |  |
