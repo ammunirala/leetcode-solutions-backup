@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2381-shifting-letters-ii](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/2381-shifting-letters-ii) |
 | [2573-find-the-string-with-lcp](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/2573-find-the-string-with-lcp) |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3713-longest-balanced-substring-i](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/3714-longest-balanced-substring-ii) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/3760-maximum-substrings-with-distinct-start) |
