@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3634-minimum-removals-to-balance-array](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/3634-minimum-removals-to-balance-array) |
 | [3640-trionic-array-ii](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/3640-trionic-array-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/3643-flip-square-submatrix-vertically) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3689-maximum-total-subarray-value-i](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/3689-maximum-total-subarray-value-i) |
 | [3701-compute-alternating-sum](https://github.com/ammunirala/leetcode-solutions/tree/master/3701-compute-alternating-sum) |
 | [3719-longest-balanced-subarray-i](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/3719-longest-balanced-subarray-i) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3467-transform-array-by-parity](https://github.com/ammunirala/leetcode-solutions/tree/master/3467-transform-array-by-parity) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3634-minimum-removals-to-balance-array](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/3634-minimum-removals-to-balance-array) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 ## Simulation
 |  |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2826-sorting-three-groups](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/2826-sorting-three-groups) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Greedy
 |  |
 | ------- |
@@ -356,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3640-trionic-array-ii](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/3640-trionic-array-ii) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Backtracking
 |  |
 | ------- |
