@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1929-concatenation-of-array](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1929-concatenation-of-array) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2751-robot-collisions](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1816-truncate-sentence](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1816-truncate-sentence) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1980-find-unique-binary-string](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1980-find-unique-binary-string) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2381-shifting-letters-ii](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/2381-shifting-letters-ii) |
