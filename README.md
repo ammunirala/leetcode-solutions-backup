@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0075-sort-colors](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/0075-sort-colors) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/0807-max-increase-to-keep-city-skyline) |
+| [0874-walking-robot-simulation](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/0874-walking-robot-simulation) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0012-integer-to-roman](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0874-walking-robot-simulation](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/0874-walking-robot-simulation) |
 | [1156-swap-for-longest-repeated-character-substring](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1156-swap-for-longest-repeated-character-substring) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0067-add-binary](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/0657-robot-return-to-origin) |
+| [0874-walking-robot-simulation](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/0874-walking-robot-simulation) |
 | [1389-create-target-array-in-the-given-order](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1389-create-target-array-in-the-given-order) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1545-find-kth-bit-in-nth-binary-string) |
