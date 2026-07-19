@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3719-longest-balanced-subarray-i](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/3721-longest-balanced-subarray-ii) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Hash Table
 |  |
 | ------- |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3548-equal-sum-grid-partition-ii](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/3643-flip-square-submatrix-vertically) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/3898-find-the-degree-of-each-vertex) |
 ## String
 |  |
 | ------- |
@@ -492,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
