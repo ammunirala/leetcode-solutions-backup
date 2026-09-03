@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3721-longest-balanced-subarray-ii](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/3721-longest-balanced-subarray-ii) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/3898-find-the-degree-of-each-vertex) |
+| [3925-concatenate-array-with-reverse](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
 |  |
 | ------- |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3379-transformed-array](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/3379-transformed-array) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3701-compute-alternating-sum](https://github.com/ammunirala/leetcode-solutions/tree/master/3701-compute-alternating-sum) |
+| [3925-concatenate-array-with-reverse](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/3925-concatenate-array-with-reverse) |
 ## Matrix
 |  |
 | ------- |
