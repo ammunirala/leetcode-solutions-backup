@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0013-roman-to-integer](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/0069-sqrtx) |
 | [0412-fizz-buzz](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/0412-fizz-buzz) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1512-number-of-good-pairs](https://github.com/ammunirala/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/0033-search-in-rotated-sorted-array) |
+| [0069-sqrtx](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/0069-sqrtx) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2826-sorting-three-groups](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/2826-sorting-three-groups) |
@@ -515,4 +517,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [1757-recyclable-and-low-fat-products](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1757-recyclable-and-low-fat-products) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
