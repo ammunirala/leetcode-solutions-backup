@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0009-palindrome-number](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/0412-fizz-buzz) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/0190-reverse-bits) |
 | [0401-binary-watch](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/0401-binary-watch) |
